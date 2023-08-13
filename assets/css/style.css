@@ -308,6 +308,37 @@ body{
     text-align: center;
     margin-bottom: 2rem;
 }
+
+
+
+
+
+
+
+/*Commit*/
+/*Cartas semicirculares*/
+
+.carta{
+    border-radius: 50%;
+}
+
+/*Modificación ciertos fondos y subtitulos*/
+
+.bandera{
+    background-color: aqua;
+}
+.subtitulo{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color:aqua;
+}
+
+
+
+
+
+
+
 /* Fin portafolio */
 /* Inicio contacto */
 .contactame h2{
